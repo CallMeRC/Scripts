@@ -1,5 +1,8 @@
 # Themes
 
+[← Documentation Home](index.md)
+
+
 PrismUI includes **40 built-in themes**.
 
 ## Change Theme
