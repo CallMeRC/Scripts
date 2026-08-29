@@ -65,3 +65,7 @@ Notifications support:
 - One or two buttons
 - Manual close
 - Theme-aware styling
+
+---
+
+**Next:** [Themes →](themes.md)
