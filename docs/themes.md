@@ -100,3 +100,6 @@ local Window = PrismUI:CreateWindow({
     LockAccent = true,
 })
 ```
+---
+
+**Next:** [Icons →](icons.md)
