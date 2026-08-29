@@ -1,5 +1,5 @@
 # Tabs
-
+[← Documentation Home](index.md)
 Tabs organize controls into separate pages.
 
 ## Create a Tab
