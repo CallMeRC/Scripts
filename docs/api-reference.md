@@ -1,5 +1,5 @@
 # Full API Reference
-[← Documentation Home](index.md)
+[← Documentation Home](./index.md)
 ## PrismUI
 
 ```lua
