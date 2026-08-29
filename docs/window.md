@@ -110,3 +110,6 @@ PrismUI windows support:
 - Viewport-aware sizing
 - Keyboard toggling
 - Theme switching
+---
+
+**Next:** [Tabs →](tabs.md)
