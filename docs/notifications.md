@@ -1,5 +1,9 @@
 # Notifications
 
+[← Documentation Home](index.md)
+
+
+
 Use `Window:Notify()` to show toast notifications.
 
 ## Basic Notification
