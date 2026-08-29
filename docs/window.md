@@ -1,5 +1,5 @@
 # Window API
-
+[← Documentation Home](index.md)
 ## Create a Window
 
 ```lua
