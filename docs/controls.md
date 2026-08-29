@@ -1,5 +1,5 @@
 # Controls
-
+[← Documentation Home](index.md)
 ## Button
 
 ```lua
