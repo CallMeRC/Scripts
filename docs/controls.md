@@ -408,3 +408,7 @@ Toggle:SetLocked(false)
 | `LockTitle` | Lock overlay title |
 | `LockReason` | Reason displayed |
 | `LockedCallback(reason)` | Called when a locked control is clicked |
+
+---
+
+**Next:** [Notifications →](notifications.md)
