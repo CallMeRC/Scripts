@@ -237,6 +237,10 @@ This example includes:
 - Color picker
 - Stats
 - Notifications
+
+---
+
+**Next:** [Getting Started →](getting-started.md)
 - Theme switching
 - Control locking
 - Lucide icons
