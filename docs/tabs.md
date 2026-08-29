@@ -64,3 +64,6 @@ Tab:CreateLabel(config)
 Tab:CreateWarning(config)
 Tab:CreateStat(config)
 ```
+---
+
+**Next:** [Controls →](controls.md)
