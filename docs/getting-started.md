@@ -1,6 +1,6 @@
 
 # Getting Started
-
+[← Documentation Home](index.md)
 ## Load PrismUI
 
 ```lua
