@@ -65,3 +65,6 @@ local Window = PrismUI:CreateWindow({
     IconProvider = customProvider,
 })
 ```
+---
+
+**Next:** [Back to Documentation Home →](index.md)
