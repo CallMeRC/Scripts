@@ -1,5 +1,7 @@
 # Complete Example Window
 
+[← Documentation Home](index.md)
+
 This example demonstrates most PrismUI features in one interface.
 
 ```lua
